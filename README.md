@@ -1,2 +1,2 @@
 # myfirst-pro
-this is my first project 
+this is my first Github repository 
